@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dialog组件相关 Dialog渲染样式正常 1`] = `"<div className=\\"biz_dev_dialog\\" onClick={[undefined]} />"`;
